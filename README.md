@@ -43,13 +43,6 @@ Integrated the **yFinance API** to analyze market performance. Applied statistic
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosziadi&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" alt="Marcos's Stats" width="400" />
-</p>
-
----
-
 ## 🤝 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcos-ziadi/)
 
