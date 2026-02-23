@@ -5,7 +5,7 @@
 
 ---
 
-##  Profile
+## 👤 Profile
 I am a third-year **Data Science** undergraduate at *Universidad Austral*, focused on transforming complex datasets into actionable strategic insights. I bridge the gap between rigorous statistical analysis and scalable engineering, with a particular interest in predictive modeling.
 
 - 🔭 **Currently building:** An end-to-end Machine Learning architecture to predict candidate salaries using Scikit-Learn pipelines.
